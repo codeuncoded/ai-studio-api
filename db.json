@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "David",
+      "age": 30
+    },
+    {
+      "name": "John",
+      "id": 2,
+      "age": 40
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "sree",
+      "age": 30
+    }
+  ],
+  "inventry": {
+    "pizza": {
+      "price": 23.2,
+      "inventry": 25
+    },
+    "burger": {
+      "price": 10,
+      "inventry": 14
+    }
+  }
+}
